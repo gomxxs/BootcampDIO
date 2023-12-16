@@ -1,2 +1,2 @@
 # BootcampDIO
-Todos os projetos, registro de estudos...
+Registros do meu processo de Aprendizado com o Bootcamp DIO!
